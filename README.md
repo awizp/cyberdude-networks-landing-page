@@ -4,7 +4,7 @@ A responsive, visually appealing landing page for Cyberdude Networks, built usin
 
 ## Screenshot
 
-
+![Webpage preload image](https://github.com/Awizp/cyberdude-networks-landing-page/blob/main/img/CyberDude%20Networks.png)
 
 ## Languages used
 * HTML
