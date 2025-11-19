@@ -1,4 +1,4 @@
-# Fullstack Career Page | Cyberdude Networks
+# HTML and CSS Course - Build Responsive Layouts | Cyberdude Networks
 
 A responsive, visually appealing landing page for Cyberdude Networks, built using just HTML and CSS. Designed to showcase the company's services and brand with a modern, user-friendly interface that adapts seamlessly across all devices.
 
