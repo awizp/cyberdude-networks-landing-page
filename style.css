@@ -744,16 +744,16 @@
             grid-template-columns: repeat(2, min(calc(300/16 *1rem), 100%));
             place-content: top left;
         }
+
+        .course_section .course_vector {
+            display: none;
+        }
     }
 
     @media screen and (max-width: calc(670/16 *1rem)) {
         .course_section .course_content {
             grid-template-columns: repeat(2, min(calc(270/16 *1rem), 100%));
             place-content: center;
-        }
-
-        .course_section .course_vector {
-            display: none;
         }
     }
 
